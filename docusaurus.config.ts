@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Kalend",
   tagline: "Indonesia & Malaysia public holiday API",
-  favicon: "img/favicon.ico",
+  favicon: "favicon.ico",
   noIndex: false,
 
   url: "https://docs.kalend.id",
