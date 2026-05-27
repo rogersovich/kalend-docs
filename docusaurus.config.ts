@@ -49,7 +49,7 @@ const config: Config = {
       title: "Kalend",
       logo: {
         alt: "Kalend Logo",
-        src: "img/logo.svg",
+        src: "img/logo.png",
       },
       items: [
         {
