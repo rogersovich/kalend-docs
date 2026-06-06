@@ -8,7 +8,7 @@ const config: Config = {
   favicon: "favicon.ico",
   noIndex: false,
 
-  url: "https://docs.kalend.id",
+  url: "https://kalend-docs-one.vercel.app",
   baseUrl: "/",
 
   organizationName: "kalend",
