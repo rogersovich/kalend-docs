@@ -39,7 +39,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "img/kalend-social.png",
+    image: "img/kalend-og-image-docs.png",
     colorMode: {
       defaultMode: "light",
       disableSwitch: false,
